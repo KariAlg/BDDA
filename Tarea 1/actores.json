@@ -1,0 +1,921 @@
+[
+    {
+        "Nombre": "Valentina Rojas",
+        "Nacionalidad": "Chile",
+        "FechaNacimiento": {
+            "$date": "1998-04-12T00:00:00Z"
+        },
+        "Edad": 28,
+        "Patrimonio": 85000000,
+        "Idiomas": [
+            "Espanol",
+            "Ingles"
+        ],
+        "Personajes": [
+            {
+                "Nombre": "Luna",
+                "Produccion": "Guardianes del Eclipse",
+                "TipoProduccion": "profesional",
+                "Rol": "principal",
+                "CantidadApariciones": 24,
+                "Generos": [
+                    "Fantasia",
+                    "Aventura"
+                ]
+            },
+            {
+                "Nombre": "Mika",
+                "Produccion": "Cronicas del Viento",
+                "TipoProduccion": "independiente",
+                "Rol": "secundario",
+                "CantidadApariciones": 8,
+                "Generos": [
+                    "Drama",
+                    "Fantasia"
+                ]
+            }
+        ]
+    },
+    {
+        "Nombre": "Mateo Fernandez",
+        "Nacionalidad": "Argentina",
+        "FechaNacimiento": {
+            "$date": "1985-09-23T00:00:00Z"
+        },
+        "Edad": 40,
+        "Patrimonio": 145000000,
+        "Idiomas": [
+            "Espanol",
+            "Ingles",
+            "Portugues"
+        ],
+        "Personajes": [
+            {
+                "Nombre": "Ramon",
+                "Produccion": "Ciudad de Acero",
+                "TipoProduccion": "profesional",
+                "Rol": "principal",
+                "CantidadApariciones": 32,
+                "Generos": [
+                    "Accion",
+                    "Drama"
+                ]
+            },
+            {
+                "Nombre": "Bruno",
+                "Produccion": "Los Viajeros",
+                "TipoProduccion": "independiente",
+                "Rol": "extra",
+                "CantidadApariciones": 4,
+                "Generos": [
+                    "Comedia"
+                ]
+            }
+        ]
+    },
+    {
+        "Nombre": "Sofia Nakamura",
+        "Nacionalidad": "Japon",
+        "FechaNacimiento": {
+            "$date": "2002-01-17T00:00:00Z"
+        },
+        "Edad": 24,
+        "Patrimonio": 62000000,
+        "Idiomas": [
+            "Japones",
+            "Ingles",
+            "Espanol"
+        ],
+        "Personajes": [
+            {
+                "Nombre": "Aiko",
+                "Produccion": "Estrellas del Amanecer",
+                "TipoProduccion": "profesional",
+                "Rol": "principal",
+                "CantidadApariciones": 36,
+                "Generos": [
+                    "Anime",
+                    "Fantasia"
+                ]
+            },
+            {
+                "Nombre": "Yumi",
+                "Produccion": "Mundos Paralelos",
+                "TipoProduccion": "profesional",
+                "Rol": "secundario",
+                "CantidadApariciones": 12,
+                "Generos": [
+                    "Ciencia Ficcion",
+                    "Aventura"
+                ]
+            }
+        ]
+    },
+    {
+        "Nombre": "Diego Morales",
+        "Nacionalidad": "Chile",
+        "FechaNacimiento": {
+            "$date": "1972-06-08T00:00:00Z"
+        },
+        "Edad": 54,
+        "Patrimonio": 210000000,
+        "Idiomas": [
+            "Espanol",
+            "Ingles"
+        ],
+        "Personajes": [
+            {
+                "Nombre": "Victor",
+                "Produccion": "El Ultimo Guardian",
+                "TipoProduccion": "profesional",
+                "Rol": "principal",
+                "CantidadApariciones": 41,
+                "Generos": [
+                    "Accion",
+                    "Aventura"
+                ]
+            },
+            {
+                "Nombre": "Alfredo",
+                "Produccion": "Historias del Sur",
+                "TipoProduccion": "independiente",
+                "Rol": "secundario",
+                "CantidadApariciones": 15,
+                "Generos": [
+                    "Drama"
+                ]
+            }
+        ]
+    },
+    {
+        "Nombre": "Camila Torres",
+        "Nacionalidad": "Mexico",
+        "FechaNacimiento": {
+            "$date": "1995-11-02T00:00:00Z"
+        },
+        "Edad": 30,
+        "Patrimonio": 97000000,
+        "Idiomas": [
+            "Espanol",
+            "Ingles"
+        ],
+        "Personajes": [
+            {
+                "Nombre": "Isabela",
+                "Produccion": "Reino de Cristal",
+                "TipoProduccion": "profesional",
+                "Rol": "principal",
+                "CantidadApariciones": 27,
+                "Generos": [
+                    "Fantasia",
+                    "Romance"
+                ]
+            },
+            {
+                "Nombre": "Clara",
+                "Produccion": "Voces de Barrio",
+                "TipoProduccion": "independiente",
+                "Rol": "principal",
+                "CantidadApariciones": 10,
+                "Generos": [
+                    "Drama",
+                    "Comedia"
+                ]
+            }
+        ]
+    },
+    {
+        "Nombre": "Lucas Pereira",
+        "Nacionalidad": "Brasil",
+        "FechaNacimiento": {
+            "$date": "1991-03-19T00:00:00Z"
+        },
+        "Edad": 35,
+        "Patrimonio": 73000000,
+        "Idiomas": [
+            "Portugues",
+            "Espanol",
+            "Ingles"
+        ],
+        "Personajes": [
+            {
+                "Nombre": "Rafael",
+                "Produccion": "Guardianes del Bosque",
+                "TipoProduccion": "profesional",
+                "Rol": "principal",
+                "CantidadApariciones": 19,
+                "Generos": [
+                    "Fantasia",
+                    "Aventura"
+                ]
+            },
+            {
+                "Nombre": "Tomas",
+                "Produccion": "Proyecto Horizonte",
+                "TipoProduccion": "independiente",
+                "Rol": "extra",
+                "CantidadApariciones": 3,
+                "Generos": [
+                    "Ciencia Ficcion"
+                ]
+            }
+        ]
+    },
+    {
+        "Nombre": "Isabella Garcia",
+        "Nacionalidad": "España",
+        "FechaNacimiento": {
+            "$date": "1965-07-25T00:00:00Z"
+        },
+        "Edad": 61,
+        "Patrimonio": 390000000,
+        "Idiomas": [
+            "Espanol",
+            "Ingles",
+            "Frances"
+        ],
+        "Personajes": [
+            {
+                "Nombre": "Elena",
+                "Produccion": "Memorias de Invierno",
+                "TipoProduccion": "profesional",
+                "Rol": "principal",
+                "CantidadApariciones": 48,
+                "Generos": [
+                    "Drama",
+                    "Romance"
+                ]
+            },
+            {
+                "Nombre": "Maria",
+                "Produccion": "El Jardin Secreto",
+                "TipoProduccion": "profesional",
+                "Rol": "secundario",
+                "CantidadApariciones": 16,
+                "Generos": [
+                    "Drama"
+                ]
+            }
+        ]
+    },
+    {
+        "Nombre": "Sebastian Ortiz",
+        "Nacionalidad": "Colombia",
+        "FechaNacimiento": {
+            "$date": "1978-10-14T00:00:00Z"
+        },
+        "Edad": 47,
+        "Patrimonio": 175000000,
+        "Idiomas": [
+            "Espanol",
+            "Ingles"
+        ],
+        "Personajes": [
+            {
+                "Nombre": "Gabriel",
+                "Produccion": "Ciudad Nocturna",
+                "TipoProduccion": "profesional",
+                "Rol": "principal",
+                "CantidadApariciones": 34,
+                "Generos": [
+                    "Accion",
+                    "Suspenso"
+                ]
+            },
+            {
+                "Nombre": "Carlos",
+                "Produccion": "Relatos Urbanos",
+                "TipoProduccion": "independiente",
+                "Rol": "secundario",
+                "CantidadApariciones": 7,
+                "Generos": [
+                    "Drama"
+                ]
+            }
+        ]
+    },
+    {
+        "Nombre": "Martina Silva",
+        "Nacionalidad": "Chile",
+        "FechaNacimiento": {
+            "$date": "2004-02-28T00:00:00Z"
+        },
+        "Edad": 22,
+        "Patrimonio": 45000000,
+        "Idiomas": [
+            "Espanol",
+            "Ingles",
+            "Frances"
+        ],
+        "Personajes": [
+            {
+                "Nombre": "Nina",
+                "Produccion": "Aventuras del Cosmos",
+                "TipoProduccion": "profesional",
+                "Rol": "principal",
+                "CantidadApariciones": 21,
+                "Generos": [
+                    "Ciencia Ficcion",
+                    "Aventura"
+                ]
+            },
+            {
+                "Nombre": "Emma",
+                "Produccion": "Pequenos Mundos",
+                "TipoProduccion": "independiente",
+                "Rol": "secundario",
+                "CantidadApariciones": 6,
+                "Generos": [
+                    "Infantil",
+                    "Fantasia"
+                ]
+            }
+        ]
+    },
+    {
+        "Nombre": "Alejandro Ruiz",
+        "Nacionalidad": "Mexico",
+        "FechaNacimiento": {
+            "$date": "1968-12-05T00:00:00Z"
+        },
+        "Edad": 57,
+        "Patrimonio": 320000000,
+        "Idiomas": [
+            "Espanol",
+            "Ingles"
+        ],
+        "Personajes": [
+            {
+                "Nombre": "Hector",
+                "Produccion": "Imperio de Fuego",
+                "TipoProduccion": "profesional",
+                "Rol": "principal",
+                "CantidadApariciones": 52,
+                "Generos": [
+                    "Accion",
+                    "Fantasia"
+                ]
+            },
+            {
+                "Nombre": "Rogelio",
+                "Produccion": "La Ultima Carta",
+                "TipoProduccion": "independiente",
+                "Rol": "secundario",
+                "CantidadApariciones": 11,
+                "Generos": [
+                    "Drama"
+                ]
+            }
+        ]
+    },
+    {
+        "Nombre": "Fernanda Castillo",
+        "Nacionalidad": "Argentina",
+        "FechaNacimiento": {
+            "$date": "1989-08-11T00:00:00Z"
+        },
+        "Edad": 37,
+        "Patrimonio": 118000000,
+        "Idiomas": [
+            "Espanol",
+            "Ingles",
+            "Italiano"
+        ],
+        "Personajes": [
+            {
+                "Nombre": "Valeria",
+                "Produccion": "Corazones de Acero",
+                "TipoProduccion": "profesional",
+                "Rol": "principal",
+                "CantidadApariciones": 29,
+                "Generos": [
+                    "Accion",
+                    "Drama"
+                ]
+            },
+            {
+                "Nombre": "Rosa",
+                "Produccion": "Historias Cotidianas",
+                "TipoProduccion": "independiente",
+                "Rol": "extra",
+                "CantidadApariciones": 5,
+                "Generos": [
+                    "Comedia"
+                ]
+            }
+        ]
+    },
+    {
+        "Nombre": "Andres Kim",
+        "Nacionalidad": "Corea del Sur",
+        "FechaNacimiento": {
+            "$date": "1997-05-30T00:00:00Z"
+        },
+        "Edad": 29,
+        "Patrimonio": 91000000,
+        "Idiomas": [
+            "Coreano",
+            "Ingles",
+            "Japones"
+        ],
+        "Personajes": [
+            {
+                "Nombre": "Jin",
+                "Produccion": "Neo Seoul",
+                "TipoProduccion": "profesional",
+                "Rol": "principal",
+                "CantidadApariciones": 31,
+                "Generos": [
+                    "Anime",
+                    "Ciencia Ficcion"
+                ]
+            },
+            {
+                "Nombre": "Minho",
+                "Produccion": "Proyecto Alfa",
+                "TipoProduccion": "independiente",
+                "Rol": "secundario",
+                "CantidadApariciones": 9,
+                "Generos": [
+                    "Accion"
+                ]
+            }
+        ]
+    },
+    {
+        "Nombre": "Patricia Navarro",
+        "Nacionalidad": "España",
+        "FechaNacimiento": {
+            "$date": "1981-01-22T00:00:00Z"
+        },
+        "Edad": 45,
+        "Patrimonio": 156000000,
+        "Idiomas": [
+            "Espanol",
+            "Frances"
+        ],
+        "Personajes": [
+            {
+                "Nombre": "Carmen",
+                "Produccion": "Secretos de Familia",
+                "TipoProduccion": "profesional",
+                "Rol": "principal",
+                "CantidadApariciones": 38,
+                "Generos": [
+                    "Drama",
+                    "Suspenso"
+                ]
+            },
+            {
+                "Nombre": "Julia",
+                "Produccion": "Vidas Cruzadas",
+                "TipoProduccion": "independiente",
+                "Rol": "secundario",
+                "CantidadApariciones": 13,
+                "Generos": [
+                    "Romance"
+                ]
+            }
+        ]
+    },
+    {
+        "Nombre": "Nicolas Herrera",
+        "Nacionalidad": "Chile",
+        "FechaNacimiento": {
+            "$date": "1970-09-10T00:00:00Z"
+        },
+        "Edad": 55,
+        "Patrimonio": 275000000,
+        "Idiomas": [
+            "Espanol",
+            "Ingles"
+        ],
+        "Personajes": [
+            {
+                "Nombre": "Arturo",
+                "Produccion": "Los Reyes del Norte",
+                "TipoProduccion": "profesional",
+                "Rol": "principal",
+                "CantidadApariciones": 45,
+                "Generos": [
+                    "Drama",
+                    "Aventura"
+                ]
+            },
+            {
+                "Nombre": "Fernando",
+                "Produccion": "El Camino Perdido",
+                "TipoProduccion": "independiente",
+                "Rol": "extra",
+                "CantidadApariciones": 4,
+                "Generos": [
+                    "Drama"
+                ]
+            }
+        ]
+    },
+    {
+        "Nombre": "Daniela Vargas",
+        "Nacionalidad": "Colombia",
+        "FechaNacimiento": {
+            "$date": "2000-06-16T00:00:00Z"
+        },
+        "Edad": 26,
+        "Patrimonio": 68000000,
+        "Idiomas": [
+            "Espanol",
+            "Ingles",
+            "Portugues"
+        ],
+        "Personajes": [
+            {
+                "Nombre": "Sara",
+                "Produccion": "Cronicas del Mar",
+                "TipoProduccion": "profesional",
+                "Rol": "principal",
+                "CantidadApariciones": 23,
+                "Generos": [
+                    "Fantasia",
+                    "Aventura"
+                ]
+            },
+            {
+                "Nombre": "Laura",
+                "Produccion": "Voces del Puerto",
+                "TipoProduccion": "independiente",
+                "Rol": "secundario",
+                "CantidadApariciones": 8,
+                "Generos": [
+                    "Drama"
+                ]
+            }
+        ]
+    },
+    {
+        "Nombre": "Roberto Mendes",
+        "Nacionalidad": "Brasil",
+        "FechaNacimiento": {
+            "$date": "1959-03-04T00:00:00Z"
+        },
+        "Edad": 67,
+        "Patrimonio": 450000000,
+        "Idiomas": [
+            "Portugues",
+            "Espanol",
+            "Ingles"
+        ],
+        "Personajes": [
+            {
+                "Nombre": "Augusto",
+                "Produccion": "La Gran Expedicion",
+                "TipoProduccion": "profesional",
+                "Rol": "principal",
+                "CantidadApariciones": 57,
+                "Generos": [
+                    "Aventura",
+                    "Drama"
+                ]
+            },
+            {
+                "Nombre": "Manuel",
+                "Produccion": "Historias del Tiempo",
+                "TipoProduccion": "independiente",
+                "Rol": "secundario",
+                "CantidadApariciones": 17,
+                "Generos": [
+                    "Drama",
+                    "Ciencia Ficcion"
+                ]
+            }
+        ]
+    },
+    {
+        "Nombre": "Claudia Reyes",
+        "Nacionalidad": "Mexico",
+        "FechaNacimiento": {
+            "$date": "1993-10-27T00:00:00Z"
+        },
+        "Edad": 32,
+        "Patrimonio": 102000000,
+        "Idiomas": [
+            "Espanol",
+            "Ingles"
+        ],
+        "Personajes": [
+            {
+                "Nombre": "Marina",
+                "Produccion": "Reinos Perdidos",
+                "TipoProduccion": "profesional",
+                "Rol": "principal",
+                "CantidadApariciones": 26,
+                "Generos": [
+                    "Fantasia",
+                    "Aventura"
+                ]
+            },
+            {
+                "Nombre": "Paula",
+                "Produccion": "El Taller",
+                "TipoProduccion": "independiente",
+                "Rol": "extra",
+                "CantidadApariciones": 3,
+                "Generos": [
+                    "Comedia"
+                ]
+            }
+        ]
+    },
+    {
+        "Nombre": "Javier Soto",
+        "Nacionalidad": "Argentina",
+        "FechaNacimiento": {
+            "$date": "1975-04-18T00:00:00Z"
+        },
+        "Edad": 51,
+        "Patrimonio": 230000000,
+        "Idiomas": [
+            "Espanol",
+            "Ingles"
+        ],
+        "Personajes": [
+            {
+                "Nombre": "Esteban",
+                "Produccion": "Sombras del Pasado",
+                "TipoProduccion": "profesional",
+                "Rol": "principal",
+                "CantidadApariciones": 43,
+                "Generos": [
+                    "Suspenso",
+                    "Drama"
+                ]
+            },
+            {
+                "Nombre": "Mario",
+                "Produccion": "Pequena Ciudad",
+                "TipoProduccion": "independiente",
+                "Rol": "secundario",
+                "CantidadApariciones": 12,
+                "Generos": [
+                    "Drama"
+                ]
+            }
+        ]
+    },
+    {
+        "Nombre": "Laura Bennett",
+        "Nacionalidad": "Estados Unidos",
+        "FechaNacimiento": {
+            "$date": "1987-02-13T00:00:00Z"
+        },
+        "Edad": 39,
+        "Patrimonio": 185000000,
+        "Idiomas": [
+            "Ingles",
+            "Espanol",
+            "Frances"
+        ],
+        "Personajes": [
+            {
+                "Nombre": "Emily",
+                "Produccion": "Beyond the Stars",
+                "TipoProduccion": "profesional",
+                "Rol": "principal",
+                "CantidadApariciones": 35,
+                "Generos": [
+                    "Ciencia Ficcion",
+                    "Aventura"
+                ]
+            },
+            {
+                "Nombre": "Kate",
+                "Produccion": "Hidden Roads",
+                "TipoProduccion": "independiente",
+                "Rol": "secundario",
+                "CantidadApariciones": 7,
+                "Generos": [
+                    "Drama"
+                ]
+            }
+        ]
+    },
+    {
+        "Nombre": "Miguel Santos",
+        "Nacionalidad": "España",
+        "FechaNacimiento": {
+            "$date": "1999-12-01T00:00:00Z"
+        },
+        "Edad": 26,
+        "Patrimonio": 57000000,
+        "Idiomas": [
+            "Espanol",
+            "Ingles",
+            "Italiano"
+        ],
+        "Personajes": [
+            {
+                "Nombre": "Diego",
+                "Produccion": "Guardianes de la Niebla",
+                "TipoProduccion": "profesional",
+                "Rol": "principal",
+                "CantidadApariciones": 18,
+                "Generos": [
+                    "Fantasia",
+                    "Aventura"
+                ]
+            },
+            {
+                "Nombre": "Leo",
+                "Produccion": "La Casa Azul",
+                "TipoProduccion": "independiente",
+                "Rol": "extra",
+                "CantidadApariciones": 5,
+                "Generos": [
+                    "Drama"
+                ]
+            }
+        ]
+    },
+    {
+        "Nombre": "Gabriela Costa",
+        "Nacionalidad": "Chile",
+        "FechaNacimiento": {
+            "$date": "1983-05-21T00:00:00Z"
+        },
+        "Edad": 43,
+        "Patrimonio": 164000000,
+        "Idiomas": [
+            "Espanol",
+            "Ingles",
+            "Portugues"
+        ],
+        "Personajes": [
+            {
+                "Nombre": "Veronica",
+                "Produccion": "Horizontes",
+                "TipoProduccion": "profesional",
+                "Rol": "principal",
+                "CantidadApariciones": 30,
+                "Generos": [
+                    "Drama",
+                    "Romance"
+                ]
+            },
+            {
+                "Nombre": "Ana",
+                "Produccion": "Historias de Barrio",
+                "TipoProduccion": "independiente",
+                "Rol": "secundario",
+                "CantidadApariciones": 9,
+                "Generos": [
+                    "Drama",
+                    "Comedia"
+                ]
+            }
+        ]
+    },
+    {
+        "Nombre": "Felipe Contreras",
+        "Nacionalidad": "Chile",
+        "FechaNacimiento": {
+            "$date": "1996-08-09T00:00:00Z"
+        },
+        "Edad": 30,
+        "Patrimonio": 79000000,
+        "Idiomas": [
+            "Espanol",
+            "Ingles"
+        ],
+        "Personajes": [
+            {
+                "Nombre": "Max",
+                "Produccion": "Mision Galactica",
+                "TipoProduccion": "profesional",
+                "Rol": "principal",
+                "CantidadApariciones": 22,
+                "Generos": [
+                    "Ciencia Ficcion",
+                    "Accion"
+                ]
+            },
+            {
+                "Nombre": "Alex",
+                "Produccion": "Codigo Secreto",
+                "TipoProduccion": "independiente",
+                "Rol": "secundario",
+                "CantidadApariciones": 6,
+                "Generos": [
+                    "Suspenso"
+                ]
+            }
+        ]
+    },
+    {
+        "Nombre": "Beatriz Molina",
+        "Nacionalidad": "Argentina",
+        "FechaNacimiento": {
+            "$date": "1969-11-15T00:00:00Z"
+        },
+        "Edad": 56,
+        "Patrimonio": 305000000,
+        "Idiomas": [
+            "Espanol",
+            "Ingles",
+            "Frances"
+        ],
+        "Personajes": [
+            {
+                "Nombre": "Teresa",
+                "Produccion": "La Gran Historia",
+                "TipoProduccion": "profesional",
+                "Rol": "principal",
+                "CantidadApariciones": 49,
+                "Generos": [
+                    "Drama"
+                ]
+            },
+            {
+                "Nombre": "Irene",
+                "Produccion": "Cartas del Pasado",
+                "TipoProduccion": "independiente",
+                "Rol": "secundario",
+                "CantidadApariciones": 14,
+                "Generos": [
+                    "Romance",
+                    "Drama"
+                ]
+            }
+        ]
+    },
+    {
+        "Nombre": "Thomas Wilson",
+        "Nacionalidad": "Estados Unidos",
+        "FechaNacimiento": {
+            "$date": "1992-07-03T00:00:00Z"
+        },
+        "Edad": 34,
+        "Patrimonio": 132000000,
+        "Idiomas": [
+            "Ingles",
+            "Espanol"
+        ],
+        "Personajes": [
+            {
+                "Nombre": "Ryan",
+                "Produccion": "The Last Horizon",
+                "TipoProduccion": "profesional",
+                "Rol": "principal",
+                "CantidadApariciones": 28,
+                "Generos": [
+                    "Accion",
+                    "Ciencia Ficcion"
+                ]
+            },
+            {
+                "Nombre": "Jack",
+                "Produccion": "Small Town",
+                "TipoProduccion": "independiente",
+                "Rol": "extra",
+                "CantidadApariciones": 4,
+                "Generos": [
+                    "Comedia"
+                ]
+            }
+        ]
+    },
+    {
+        "Nombre": "Paula Martinez",
+        "Nacionalidad": "Colombia",
+        "FechaNacimiento": {
+            "$date": "1980-03-26T00:00:00Z"
+        },
+        "Edad": 46,
+        "Patrimonio": 149000000,
+        "Idiomas": [
+            "Espanol",
+            "Ingles"
+        ],
+        "Personajes": [
+            {
+                "Nombre": "Diana",
+                "Produccion": "Destino Final",
+                "TipoProduccion": "profesional",
+                "Rol": "principal",
+                "CantidadApariciones": 33,
+                "Generos": [
+                    "Suspenso",
+                    "Drama"
+                ]
+            },
+            {
+                "Nombre": "Lucia",
+                "Produccion": "Voces Independientes",
+                "TipoProduccion": "independiente",
+                "Rol": "secundario",
+                "CantidadApariciones": 10,
+                "Generos": [
+                    "Drama"
+                ]
+            }
+        ]
+    }
+]
