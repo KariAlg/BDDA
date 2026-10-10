@@ -1,0 +1,21 @@
+id,edad,fecha_nacimiento,idiomas,nacionalidad,nombre,patrimonio
+57aaf9ca-3f57-4797-99a1-4148dca7399f,61,1965-10-02,"{'Espanol', 'Ingles'}",Mexicana,Gerardo Reyero,850000
+349187d0-dd62-4546-8bfd-11adc8ef0f6b,59,1967-08-15,"{'Espanol', 'Ingles'}",Mexicana,Laura Torres,900000
+814a074a-5948-426f-b660-2393b6ebabe3,43,1983-06-08,"{'Espanol', 'Ingles'}",Japonesa,Mamoru Miyano,1800000
+85584130-e628-48b1-9ee5-ca04b7959eae,41,1985-04-10,"{'Espanol', 'Ingles'}",Chilena,Claudia Garzon,300000
+671a79c5-679d-42df-bc63-73580733cc71,49,1977-02-13,"{'Espanol', 'Ingles'}",Mexicana,Cristina Hernandez,800000
+52a9917b-0b2c-4db1-b3bc-c961bd0fbfcd,64,1962-06-29,"{'Espanol', 'Ingles'}",Mexicana,Mario Castaneda,1500000
+46aa9e85-06f3-4c10-b205-94db727dbbbf,47,1979-05-12,"{'Espanol', 'Ingles'}",Japonesa,Takashi Kondo,750000
+aa1cc0b3-97c7-4ff0-9356-d0bc4912e896,89,1936-10-25,"{'Espanol', 'Ingles'}",Japonesa,Masako Nozawa,3000000
+3204fa6b-79f2-4c04-abda-682d7498a093,53,1973-02-12,"{'Espanol', 'Ingles'}",Estadounidense,Tara Strong,10000000
+22672264-51fd-473f-9ccb-c3b2da9aaadc,68,1957-10-29,"{'Espanol', 'Ingles'}",Estadounidense,Dan Castellaneta,35000000
+44b1664e-13ca-4867-a038-807d3136d625,62,1964-04-25,"{'Espanol', 'Ingles'}",Estadounidense,Hank Azaria,25000000
+4ac6154d-f987-4814-9917-1866aa70fd73,68,1957-10-25,"{'Espanol', 'Ingles'}",Estadounidense,Nancy Cartwright,40000000
+716fb41b-30a2-4c7d-a9dd-60bd0a435eb4,59,1967-06-03,"{'Espanol', 'Ingles'}",Espanola,Nuria Mediavilla,1100000
+99cba011-48d3-4a6a-9c6b-d825e8d31efe,68,1958-02-01,"{'Espanol', 'Ingles'}",Japonesa,Ryo Horikawa,2000000
+32618fd4-6944-4623-9e50-fcba7ca1df4d,56,1970-01-20,"{'Espanol', 'Ingles'}",Espanola,Claudio Serrano,1200000
+db89df99-0b52-4841-a1b5-4455cfc523a3,45,1981-07-05,"{'Espanol', 'Ingles'}",Chilena,Loreto Araya,400000
+8d99c2a2-110a-48fc-8a0a-26335b04117c,56,1970-03-12,"{'Espanol', 'Ingles'}",Mexicana,Rene Garcia,1100000
+28e4233b-9833-4ffa-b73f-76cdad55e3af,35,1990-11-20,"{'Espanol', 'Ingles'}",Chilena,Gaston Malaguti,250000
+995738d7-36aa-4857-8e3b-c425e5a1a23c,70,1956-09-16,"{'Espanol', 'Ingles'}",Mexicana,Carlos Segundo,950000
+bb4459f1-fa8d-405b-b5e4-ad7ce697b780,71,1955-03-30,"{'Espanol', 'Ingles'}",Mexicana,Humberto Velez,1300000

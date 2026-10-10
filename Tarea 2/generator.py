@@ -3,11 +3,9 @@ import random
 from datetime import datetime
 from cassandra.cluster import Cluster
 
-# 1. Conexión al clúster de Docker (localhost)
 cluster = Cluster(['127.0.0.1'])
 session = cluster.connect('actors')
 
-# 2. Lista de 20 actores (Formato: Nombre, Nacionalidad, Fecha Nac, Edad, Patrimonio)
 actors_data = [
     ("Mario Castaneda", "Mexicana", "1962-06-29", 64, 1500000.0),
     ("Laura Torres", "Mexicana", "1967-08-15", 59, 900000.0),
@@ -34,31 +32,25 @@ actors_data = [
 print("Iniciando inserción de datos desnormalizados...")
 
 for nombre, nac, fecha_str, edad, patrimonio in actors_data:
-    # Generamos un ID único por actor
     actor_id = uuid.uuid4()
     fecha_nac = datetime.strptime(fecha_str, "%Y-%m-%d").date()
     idiomas_set = {'Espanol', 'Ingles'}
 
-    # 1. Inserción en tabla 1: actors_by_id
     session.execute("""
         INSERT INTO identificadorActor (id, nombre, nacionalidad, fecha_nacimiento, edad, patrimonio, idiomas)
         VALUES (%s, %s, %s, %s, %s, %s, %s)
     """, (actor_id, nombre, nac, fecha_nac, edad, patrimonio, idiomas_set))
 
-    # 2. Inserción en tabla 2: actors_by_nationality
     session.execute("""
         INSERT INTO nacionalidadActores (nacionalidad, edad, id, nombre, fecha_nacimiento, patrimonio, idiomas)
         VALUES (%s, %s, %s, %s, %s, %s, %s)
     """, (nac, edad, actor_id, nombre, fecha_nac, patrimonio, idiomas_set))
 
-    # 3. Inserción en tabla 3: characters_by_actor_role
-    # Creamos 2 personajes por actor (uno 'principal' y uno 'secundario')
     roles = ['principal', 'secundario']
     for i, rol in enumerate(roles):
         apariciones = (i + 1) * 20
         personaje_nom = f"Personaje {i+1} de {nombre.split()[0]}"
         
-        # Asignamos 'profesional' o 'independiente' según el rol (o según tu preferencia)
         tipo_prod = "profesional" if rol == "principal" else "independiente"
         
         session.execute("""

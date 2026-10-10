@@ -1,0 +1,21 @@
+nacionalidad,edad,id,fecha_nacimiento,idiomas,nombre,patrimonio
+Chilena,35,28e4233b-9833-4ffa-b73f-76cdad55e3af,1990-11-20,"{'Espanol', 'Ingles'}",Gaston Malaguti,250000
+Chilena,41,85584130-e628-48b1-9ee5-ca04b7959eae,1985-04-10,"{'Espanol', 'Ingles'}",Claudia Garzon,300000
+Chilena,45,db89df99-0b52-4841-a1b5-4455cfc523a3,1981-07-05,"{'Espanol', 'Ingles'}",Loreto Araya,400000
+Japonesa,43,814a074a-5948-426f-b660-2393b6ebabe3,1983-06-08,"{'Espanol', 'Ingles'}",Mamoru Miyano,1800000
+Japonesa,47,46aa9e85-06f3-4c10-b205-94db727dbbbf,1979-05-12,"{'Espanol', 'Ingles'}",Takashi Kondo,750000
+Japonesa,68,99cba011-48d3-4a6a-9c6b-d825e8d31efe,1958-02-01,"{'Espanol', 'Ingles'}",Ryo Horikawa,2000000
+Japonesa,89,aa1cc0b3-97c7-4ff0-9356-d0bc4912e896,1936-10-25,"{'Espanol', 'Ingles'}",Masako Nozawa,3000000
+Espanola,56,32618fd4-6944-4623-9e50-fcba7ca1df4d,1970-01-20,"{'Espanol', 'Ingles'}",Claudio Serrano,1200000
+Espanola,59,716fb41b-30a2-4c7d-a9dd-60bd0a435eb4,1967-06-03,"{'Espanol', 'Ingles'}",Nuria Mediavilla,1100000
+Mexicana,49,671a79c5-679d-42df-bc63-73580733cc71,1977-02-13,"{'Espanol', 'Ingles'}",Cristina Hernandez,800000
+Mexicana,56,8d99c2a2-110a-48fc-8a0a-26335b04117c,1970-03-12,"{'Espanol', 'Ingles'}",Rene Garcia,1100000
+Mexicana,59,349187d0-dd62-4546-8bfd-11adc8ef0f6b,1967-08-15,"{'Espanol', 'Ingles'}",Laura Torres,900000
+Mexicana,61,57aaf9ca-3f57-4797-99a1-4148dca7399f,1965-10-02,"{'Espanol', 'Ingles'}",Gerardo Reyero,850000
+Mexicana,64,52a9917b-0b2c-4db1-b3bc-c961bd0fbfcd,1962-06-29,"{'Espanol', 'Ingles'}",Mario Castaneda,1500000
+Mexicana,70,995738d7-36aa-4857-8e3b-c425e5a1a23c,1956-09-16,"{'Espanol', 'Ingles'}",Carlos Segundo,950000
+Mexicana,71,bb4459f1-fa8d-405b-b5e4-ad7ce697b780,1955-03-30,"{'Espanol', 'Ingles'}",Humberto Velez,1300000
+Estadounidense,53,3204fa6b-79f2-4c04-abda-682d7498a093,1973-02-12,"{'Espanol', 'Ingles'}",Tara Strong,10000000
+Estadounidense,62,44b1664e-13ca-4867-a038-807d3136d625,1964-04-25,"{'Espanol', 'Ingles'}",Hank Azaria,25000000
+Estadounidense,68,22672264-51fd-473f-9ccb-c3b2da9aaadc,1957-10-29,"{'Espanol', 'Ingles'}",Dan Castellaneta,35000000
+Estadounidense,68,4ac6154d-f987-4814-9917-1866aa70fd73,1957-10-25,"{'Espanol', 'Ingles'}",Nancy Cartwright,40000000
