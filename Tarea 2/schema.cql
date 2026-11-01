@@ -42,3 +42,21 @@ CREATE TABLE personajesActor (
     generos set<text>,
     PRIMARY KEY ((actor_id, rol), apariciones, personaje_nombre)
 ) WITH CLUSTERING ORDER BY (apariciones DESC, personaje_nombre ASC);
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
